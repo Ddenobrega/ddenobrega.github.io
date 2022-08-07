@@ -24,8 +24,8 @@ export default class App extends Component {
         <div className="lg:flex lg:flex-1 lg:flex-row">
           <div className="flex flex-1 flex-col text-center lg:text-left pt-8 ">
             <h1 className="text-5xl font-bold lg:text-7xl ">
-              <span className="text-red-400">D</span>aryl{" "}
-              <span className="text-red-400">D</span>eNobrega
+              <span className="text-red-500">D</span>aryl{" "}
+              <span className="text-red-500">D</span>eNobrega
             </h1>
             <h4>Software Engineer | Security Researcher.</h4>
           </div>
